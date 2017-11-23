@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="queryHint">Book Search</string>
+    <string name="NoData">No Result Found</string>
+    <string name="NoInternet">No Internet Connection:) </string>
+
+</resources>
